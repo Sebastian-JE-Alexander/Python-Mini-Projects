@@ -1,0 +1,1 @@
+This Python program takes an audio file uploaded by the user and displays it on a spectrogram chart. 
